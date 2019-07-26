@@ -23,5 +23,5 @@ If you find the code useful in your research, please cite:
     
 ### Contact
 
-e-mail: jasonfu@iis.sinica.edu.tw or d04922007@ntu.edu.tw
+e-mail: uglyfish38@gmail.com or d04922007@ntu.edu.tw
 
