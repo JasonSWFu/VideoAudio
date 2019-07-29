@@ -5,10 +5,6 @@ The experimental software was ran by MATLAB. Three different conditions was used
 
 To download full audio-video data, please click here [data](https://drive.google.com/drive/folders/1iycJkD47wdJO9xw48ChR4g4cCmDnH4Iu?usp=sharing).
 
-
-
-### Citation
-If you find the code useful in your research, please cite:
       
     
 ### Contact
