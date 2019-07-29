@@ -1,19 +1,9 @@
 # VideoAudio_Test
 
 ### Introduction
-This paper tries to solve the mismatch (as in Fig.1) between training objective function and evaluation metrics which are usually highly correlated to human perception. Due to the inconsistency, there is no guarantee that the trained model can provide optimal performance in applications. In this study, we propose an end-to-end utterance-based speech enhancement framework using fully convolutional neural networks (FCN) to reduce the gap between the model optimization and the evaluation criterion. Because of the utterance-based optimization, temporal correlation information of long speech segments, or even at the entire utterance level, can be considered to directly optimize perception-based objective functions.
+The experimental software was ran by MATLAB. Three different conditions was used in the listening test: Clean, Noisy and FCN speech enhancement. Except for the main conditions, two types of noise maskers (Street and Engine) and two SNR (1 and 4 dB) were manipulated in the experiment.
 
 To download full audio-video data, please click here [data](https://drive.google.com/drive/folders/1iycJkD47wdJO9xw48ChR4g4cCmDnH4Iu?usp=sharing).
-
-### Major Contribution
-1) Utterance-based waveform enhancement
-2) Direct short-time objective intelligibility (STOI) score optimization (without any approximation)
-
-
-For more details and evaluation results, please check out our  [paper](https://ieeexplore.ieee.org/document/8331910).
-
-![teaser](https://github.com/JasonSWFu/End-to-end-waveform-utterance-enhancement/blob/master/images/Fig1_3.png)
-
 
 
 
