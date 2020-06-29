@@ -21,7 +21,7 @@ To download full audio-video data, please click here [data](https://drive.google
 The effect size could help support the statisitcal significance in the paired T-Test without doing correction. Effect size is a quantitative measure of the magnitude of the experimenter effect. The larger the effect size the stronger the relationship between two variables. The results of effect size in Cohen d for each paired T-Test were attached alongside the original tables below. According to the threshold for interpretting effect sizes [reference after the tables], d = 0.20 means small effect size, 0.50 as medium size, and 0.80 as large size. In this study, for 1 dB group, two significant p-values carried 0.4959 and 0.9193 two effect sizes, and they meant nearly medium and large effect sizes, respectively. As in the 4 dB group, one significant pair was with medium effect size of 0.5058. The results of effect size brought a relatively convincing support to believe that the statistical analysis in this study was not generating the false positive outcome.
 
 <figure>
-  <img src="https://github.com/JasonSWFu/VideoAudio_Test/blob/master/images/1dB_size.png"/>
+  <img src="https://github.com/JasonSWFu/VideoAudio_Test/blob/master/images/1dB_size.png" title="Optional title"/>
   <figcaption> 1dB_size </figcaption>
 </figure>    
 
