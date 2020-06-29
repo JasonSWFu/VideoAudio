@@ -17,10 +17,6 @@ To download full audio-video data, please click here [data](https://drive.google
   <figcaption> [street noise](https://github.com/JasonSWFu/VideoAudio_Test/blob/master/noise_audio/street.wav) </figcaption>
 </figure>
 
-
-var audio = new Audio("https://github.com/JasonSWFu/VideoAudio_Test/blob/master/noise_audio/engine.wav")
-audio.play()
-
 ### Contact
 
 e-mail: uglyfish38@gmail.com or d04922007@ntu.edu.tw
