@@ -22,12 +22,10 @@ The effect size could help support the statisitcal significance in the paired T-
 
 <figure>
   <img src="https://github.com/JasonSWFu/VideoAudio_Test/blob/master/images/1dB_size.png"/>
-  <figcaption> 1dB_size </figcaption>
 </figure>    
 
 <figure>
   <img src="https://github.com/JasonSWFu/VideoAudio_Test/blob/master/images/4dB_size.png"/>
-  <figcaption> 4dB_size </figcaption>
 </figure>
 
 
