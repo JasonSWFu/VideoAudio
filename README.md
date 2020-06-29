@@ -5,6 +5,10 @@ The experimental software was ran by MATLAB. Three different conditions was used
 
 To download full audio-video data, please click here [data](https://drive.google.com/drive/folders/1iycJkD47wdJO9xw48ChR4g4cCmDnH4Iu?usp=sharing).
 
+
+# Noise used in this study
+![teaser](https://github.com/JasonSWFu/VideoAudio_Test/blob/master/images/engine.bmp)
+![teaser](https://github.com/JasonSWFu/VideoAudio_Test/blob/master/images/street.bmp)
       
     
 ### Contact
