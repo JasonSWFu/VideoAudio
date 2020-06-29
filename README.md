@@ -14,7 +14,7 @@ To download full audio-video data, please click here [data](https://drive.google
 
 <figure>
   <img width="280" height="210" src="https://github.com/JasonSWFu/VideoAudio_Test/blob/master/images/street.bmp"/>
-  <figcaption> [engine noise](https://github.com/JasonSWFu/VideoAudio_Test/blob/master/noise_audio/street.wav) </figcaption>
+  <figcaption> [street noise](https://github.com/JasonSWFu/VideoAudio_Test/blob/master/noise_audio/street.wav) </figcaption>
 </figure>
     
 ### Contact
