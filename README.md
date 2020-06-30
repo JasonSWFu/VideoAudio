@@ -8,12 +8,12 @@ To download full audio-video data, please click here [data](https://drive.google
 
 # Noise used in this study
 <figure>
-  <img width="280" height="210" src="https://github.com/JasonSWFu/VideoAudio_Test/blob/master/images/engine.bmp"/>
+  <img width="280" height="210" src="https://github.com/JasonSWFu/VideoAudio_Test/blob/master/images/engine.png"/>
   [engine noise](https://github.com/JasonSWFu/VideoAudio_Test/blob/master/noise_audio/engine.wav)
 </figure>    
 
 <figure>
-  <img width="280" height="210" src="https://github.com/JasonSWFu/VideoAudio_Test/blob/master/images/street.bmp"/>
+  <img width="280" height="210" src="https://github.com/JasonSWFu/VideoAudio_Test/blob/master/images/street.png"/>
   <figcaption> [street noise](https://github.com/JasonSWFu/VideoAudio_Test/blob/master/noise_audio/street.wav) </figcaption>
 </figure>
 
